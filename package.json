@@ -1,0 +1,11 @@
+{
+  "name": "gulp-overview",
+  "version": "1.0.0",
+  "description": "Learning GULP",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Freo Balagtas"
+}
