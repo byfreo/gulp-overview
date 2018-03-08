@@ -407,10 +407,6 @@ body {
   color: #000000;
   background: #ffffff;
 }
-html a,
-body a {
-  color: #feea00;
-}
 
 /*
 * Skeleton V2.0.4
@@ -705,7 +701,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #feea00;
+  color: #5fc1ef;
 }
 
 a:hover {
